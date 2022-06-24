@@ -34,6 +34,9 @@ Using Virtualbox, Mininet, and Pox as the implementers of the OpenFlow protocol,
 
 The network topology depicted in Fig.1 consists of 1 core switch (CS), 4 switches (s1, s2, s3, and s4), 4 hosts (h1, h2, h3, and h4), and one server (Server). All traffic arriving on a switch is forwarded to the controller. It learns the mapping between MAC addresses and ports and installs a flow rule on the switch to handle future packets. So, the only packets that should arrive at the controller are those the switch doesn’t have a flow entry.
 
+![mininetassign](https://user-images.githubusercontent.com/28300200/175469119-9d43cb56-cf17-4449-aee8-915fd6f22475.png)
+
+
 ### Deliverables
 1. Have h1 ping h2 and h3 ping SERVER. How much time it took to ping?
 2. Run iperf h1 h2 and iperf h3 SERVER. What is the throughput?
