@@ -1,4 +1,4 @@
-# NDN Caching Policies Implementation
+
 
 *The best way to emulate almost any network on your laptop!*
 
