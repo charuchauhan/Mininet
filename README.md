@@ -1,9 +1,6 @@
 
 
-*The best way to emulate almost any network on your laptop!*
-
-
-### What is Mininet?
+## What is Mininet?
 
 Mininet emulates a complete network of hosts, links, and switches
 on a single machine.  To create a sample two-host, one-switch network,
