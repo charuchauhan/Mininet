@@ -14,7 +14,7 @@ controllers prototyped in Mininet can usually be transferred to
 hardware with minimal changes for full line-rate execution.
 
 
-*This project is a 3-part program. See Part 1,2,3*
+*This project is a 3-part program. See Part A,B and C.
 
 # Assignment 
 In this task, you will learn about Software Defined Networking (SDN).
